@@ -1,7 +1,6 @@
 
 ###### Step 5: Expected Scaling Behavior #######
 
-setwd("~/Desktop/STAT-607/Project/Code")
 source("poisson_ridge.R")
 dir.create("figures", showWarnings = FALSE)
 
