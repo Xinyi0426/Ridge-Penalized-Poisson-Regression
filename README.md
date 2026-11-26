@@ -19,8 +19,6 @@ After implementing the algorithm in R, I tested it on simulated data to check it
 
 ## 3. How to Use the Algorithm
 
-The algorithm is implemented in base R. No additional packages are needed for the example below.
-
 First, download the files and set the working directory to the folder containing the R scripts.
 
 Load the function:
