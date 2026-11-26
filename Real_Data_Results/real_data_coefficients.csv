@@ -1,0 +1,11 @@
+"Parameter","Estimate"
+"(Intercept)",0.285250614883496
+"diversity_std",0.0151311640524266
+"age_std",0.00946722695774164
+"sexM",-0.256936165794678
+"hct.sourcecord",-0.0143934223536899
+"hct.sourcePBSC",1.7127375197279
+"hct.sourceTCD",2.2798061346354
+"tacrolimus",-0.232653124861674
+"hydrocortisone",0.0179494312878993
+"vancomycin",-0.477270726634633
