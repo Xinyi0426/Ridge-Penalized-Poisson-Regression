@@ -1,7 +1,6 @@
 
 ###### Step 4: Real Data Application ######
 
-setwd("~/Desktop/STAT-607/Project/Code")
 source("poisson_ridge.R")
 
 # Load real datasets
